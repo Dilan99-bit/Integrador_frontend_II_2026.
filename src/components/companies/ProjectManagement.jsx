@@ -130,7 +130,7 @@ function ProjectManagement() {
 	)
 
 	return (
-		<main className="dashboard-page">
+		<main className="dashboard-page project-management-page">
 			<div className="dashboard-content">
 				<section className="dashboard-intro" aria-labelledby="registrations-title">
 					<div>

@@ -225,6 +225,10 @@ body {
         #f7f7fa;
 }
 
+.project-management-page {
+    text-align: left;
+}
+
 .dashboard-header {
     max-width: 1180px;
     margin: 0 auto;
